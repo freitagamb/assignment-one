@@ -1,4 +1,4 @@
-
+﻿
 1. You should be reading this file from your own file system, not a web browser.
 2. Navigate to the src/ directory. In here, you will see some source code.
 3. Create a new folder named exactly your GitHub username. Then copy, not move, the source code files into the new folder.
